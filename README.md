@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adam M Baranowski 👋
 
-<!--
-**AdamMBaranowski/AdamMBaranowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Data Analysis & Automation  
+🌱 Building Python projects to solve real problems  
+🚀 Passionate about automating tasks and extracting insights from data  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Jupyter Notebook, Git, GitHub  
+
+---
+
+## 📂 Featured Projects
+
+*(More projects coming soon!)*
+
+---
+
+## 📫 Contact Me
+- Email: Adam.M.Baranowski@gmail.com
+- GitHub: [https://github.com/AdamMBaranowski](https://github.com/AdamMBaranowski)
