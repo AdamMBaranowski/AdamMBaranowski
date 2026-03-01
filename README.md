@@ -8,14 +8,13 @@
 
 ## 🛠 Tech Stack
 - **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Jupyter Notebook, Git, GitHub  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Git, GitHub
 
 ---
 
 ## 📂 Featured Projects
-
-- **[BG1 Character Simulator](https://github.com/AdamMBaranowski/bg1-character-simulator)** – A Python/OOP simulator that evaluates the probability of rolling optimal stats for Baldur's Gate 1 custom characters.
+- **[BG1 Character Simulator](https://github.com/AdamMBaranowski/bg1-character-simulator)** – A Python/OOP simulator that evaluates the probability of rolling optimal stats for Baldur's Gate 1 custom characters.  
 
 *(More projects coming soon!)*
 
@@ -29,5 +28,5 @@
 ---
 
 ## 📫 Contact Me
-- Email: Adam.M.Baranowski@gmail.com
-- GitHub: [https://github.com/AdamMBaranowski](https://github.com/AdamMBaranowski)
+- **Email:** Adam.M.Baranowski@gmail.com  
+- **GitHub:** [https://github.com/AdamMBaranowski](https://github.com/AdamMBaranowski)
