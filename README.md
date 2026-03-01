@@ -31,9 +31,4 @@
 
 ## 📫 Contact Me
 - **Email:** Adam.M.Baranowski@gmail.com  
-- **GitHub:** [https://github.com/AdamMBaranowski](https://github.com/AdamMBaranowski)  
-
----
-
-## 📈 GitHub Stats (Optional)
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMBaranowski&show_icons=true&theme=radical)
+- **GitHub:** [https://github.com/AdamMBaranowski](https://github.com/AdamMBaranowski)
