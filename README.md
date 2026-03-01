@@ -21,6 +21,13 @@
 
 ---
 
+## ⚡ Skills in Action
+- Data simulation & probability calculations in Python
+- Object-oriented programming with class inheritance
+- Config-driven project design for maintainability
+
+---
+
 ## 📫 Contact Me
 - Email: Adam.M.Baranowski@gmail.com
 - GitHub: [https://github.com/AdamMBaranowski](https://github.com/AdamMBaranowski)
