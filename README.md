@@ -16,6 +16,7 @@
 ## 📂 Featured Projects
 
 - **[BG1 Character Simulator](https://github.com/AdamMBaranowski/bg1-character-simulator)** – A Python/OOP simulator that evaluates the probability of rolling optimal stats for Baldur's Gate 1 custom characters. Users can select builds, simulate dice rolls, and analyze probability outcomes.
+- **[Wasteland2 Character Simulator](https://github.com/AdamMBaranowski/wasteland2-character-simulator)** - A Python-based simulator that automatically distributes attribute points based on specified derived statistics and outputs all valid character builds.
 
 *(More projects coming soon!)*  
 
